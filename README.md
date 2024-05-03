@@ -1,1 +1,1 @@
-my first testing excercie 
+my first testing exercise  
